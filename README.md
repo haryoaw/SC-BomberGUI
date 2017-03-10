@@ -5,7 +5,7 @@ GUI dari https://github.com/FerdinandAnt/SC-Bomber.
 # Cara Penggunaan
 
 1. Download file jar yang sudah disediakan pada folder Jar File
-2. Taruh folder Server dan Assets pada tempat yang sama dengan file jarnya
+2. Taruh folder Server dan assets pada tempat yang sama dengan file jarnya
 3. Jalankan perintah ini pada console anda:
 
 `java -jar GUIBomberman.jar ProgramAI1 ProgramAI2 ProgramAI3 ProgramAI4 filemap`
